@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ptbr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+
+
+        function mostra(texto) {
+
+            document.write(texto);
+
+        }
+
+        mostra("oi teste");
+
+        /* Exercicio deste capitulo*/
+
+
+        function mostra(texto) {
+
+            document.write(texto);
+
+        }
+
+        function pulaLinha() {
+
+            document.write("<br>")
+
+        }
+        var minhaIdade = 33;
+        var idadeIrmao = 25;
+
+        mostra("Nossa Diferença de Idade é " + (minhaIdade - idadeIrmao));
+        pulaLinha();
+
+        var portuguesNoBrasil = 1500;
+        var tempoMedioDeFilho = 28;
+        var anoAtual = 2021;
+
+        var geracoes = ((anoAtual-portuguesNoBrasil)/tempoMedioDeFilho);
+
+        mostra("A quantidade de gerações de Brasileiros até hoje é de " + geracoes);
+        pulaLinha();
+
+
+    </script>
+</body>
+
+</html>
