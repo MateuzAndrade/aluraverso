@@ -31,17 +31,22 @@
 
         mostra("Nome: " + nome);
 
-        var peso = window.prompt("Qual Seu Peso?");
+        var peso = window.prompt(nome + " Qual Seu Peso?");
 
         mostra("Peso: " + peso);
 
-        var altura = window.prompt("Qual sua altura?");
+        var altura = window.prompt(nome + " Qual sua altura?");
 
         mostra("Altura: " + altura);
 
-        var imc = peso / (altura * altura);
+        function imc(peso, altura) {
 
-        mostra("Seu IMC é de " + imc);
+            return  peso / (altura * altura);
+
+        }
+
+
+        mostra("Seu IMC é de " + imc());
 
         function testedoimc () {
 
