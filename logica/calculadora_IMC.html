@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMC</title>
+</head>
+
+<body>
+    <script>
+        function pulaLinha() {
+
+            document.write("<br><hr><br>");
+
+        }
+
+        function mostra(texto) {
+
+            document.write(texto)
+            pulaLinha();
+
+        }
+
+        alert("Bem Vindo a Calculadora de IMC");
+
+        mostra("<h1> Calculadora de IMC </h1>");
+
+        var nome = window.prompt("Qual Seu Nome?");
+
+        mostra("Nome: " + nome);
+
+        var peso = window.prompt("Qual Seu Peso?");
+
+        mostra("Peso: " + peso);
+
+        var altura = window.prompt("Qual sua altura?");
+
+        mostra("Altura: " + altura);
+
+        var imc = peso / (altura * altura);
+
+        mostra("Seu IMC é de " + imc);
+
+        if (imc <= 22) {
+
+            mostra("Sobrepeso seu gordo!");
+
+        }
+        if (imc >22 ) {
+            mostra("Desnutrido");
+        }
+
+
+    </script>
+</body>
+
+</html>
