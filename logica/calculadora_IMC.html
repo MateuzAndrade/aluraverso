@@ -43,14 +43,35 @@
 
         mostra("Seu IMC é de " + imc);
 
-        if (imc <= 22) {
+        function testedoimc () {
 
-            mostra("Sobrepeso seu gordo!");
+            if (imc < 18.5) {
 
-        }
-        if (imc >22 ) {
-            mostra("Desnutrido");
-        }
+                mostra("Baixo Peso");
+
+            }
+            if (imc >= 18.5 && imc < 24.9) {
+
+                mostra("Peso Normal");
+
+            }
+            if (imc >= 25.0 && imc < 29.9) {
+
+                mostra("Excesso de peso");
+
+            }
+
+            if (imc >= 30.0 && imc < 34.9) {
+
+                mostra("Obesidade de Classe 1");
+
+            }
+            if (imc >= 35.0 && imc < 39.9) {
+
+                mostra("Obesidade de Classe 2");
+        }}
+
+       mostra(testedoimc());
 
 
     </script>
