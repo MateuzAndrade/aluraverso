@@ -10,9 +10,10 @@
 
 <body>
     <script>
+
         function pulaLinha() {
 
-            document.write("<br><hr><br>");
+            document.write("<br><br>");
         }
 
         function mostra(texto) {
@@ -21,17 +22,21 @@
             pulaLinha();
         }
 
-        var anoCopa = 1930;
+        mostra("Exibição de todos os números pares de 1 até 100")
 
-        while (anoCopa <= 2021) {
+        var contador = 0;
 
-            mostra("Teve copa em " + anoCopa);
-            anoCopa = anoCopa + 4;
+        while (contador <= 100) {
+
+            mostra(contador);
+            contador = contador + 2;
         }
 
-        mostra("FIM");
+        mostra("FIM")
+
 
     </script>
+
 </body>
 
 </html>
