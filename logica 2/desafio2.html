@@ -23,20 +23,16 @@
         var x = evento.pageX - tela.offsetLeft;
         var y = evento.pageY - tela.offsetTop;
 
-        if (evento.shiftKey) {
- 
-            raio = raio + 10;
-        } 
+if (evento.shiftKey && evento.ctrlKey) {
+    alert("Uma Tecla por Vez afobado");
+
+    }else if (evento.shiftKey && raio + 10 <= 40) {
+        raio = raio + 10;
         
-        if (evento.ctrlKey){
-
-            raio = - 5;
-        }
-              
-        if (raio = 40){
-
-            raio = 10;
-        }
+    }else if(evento.altKey && raio - 5 >= 10) {
+            raio = raio - 5;
+            
+    }
 
         pincel.fillStyle = 'blue';
         pincel.beginPath();
