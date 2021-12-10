@@ -1,39 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aulas de Lógica Testes de COnhecimento</title>
-    <style>
-        
-
-    </style>
+    <title>Desenhando e Testando Conhecimentos</title>
 </head>
+
 <body>
     <canvas width="650" height="600"></canvas>
 
     <script>
 
-        var tela = document.querySelector("canvas")
+        var tela = document.querySelector("canvas");
         var pincel = tela.getContext("2d");
 
-        pincel.fillStyle = "#CBE0E9";
+        pincel.fillStyle = "#FFCBDB";
         pincel.fillRect(0, 0, 650, 600);
 
-        function desenhaCirculo (x, y, raio) {
+        function desenhaCirculo(x, y, raio) {
 
-            pincel.fillStyle = "#77dd77";
+            pincel.fillStyle = "red";
             pincel.beginPath();
-            pincel.arc(x, y, raio, 0 , 2 * Math.PI)
+            pincel.arc(x, y, raio, 0, 2 * Math.PI);
             pincel.fill();
+
         }
 
-        desenhaCirculo(90, 90, 336);
-        desenhaCirculo(600, 600, 300);
+        function limpaTela() {
 
+            pincel.clearRect(0, 0, 650, 600);
+        }
+
+        setInterval()
+        desenhaCirculo(x, 20, 20);
 
     </script>
 
 </body>
+
 </html>
