@@ -8,3 +8,9 @@ function imprimeTexto (texto) {
 
 imprimeTexto("oi");
 imprimeTexto("imprime outro texto");
+
+function soma (a, b){
+    return a + b;
+}
+
+console.log(soma(1,1));
