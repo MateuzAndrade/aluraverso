@@ -1,4 +1,4 @@
-function criarCliente (nome, idade, cpf, email, endereco) {
+function Cliente (nome, idade, cpf, email, endereco) {
 
     this.nome = nome,
     this.idade = idade,
@@ -7,4 +7,6 @@ function criarCliente (nome, idade, cpf, email, endereco) {
     this.endereco = endereco;
 }
 
-criarCliente
+const mateus = new Cliente ("mateus","25","00000","aaaaa","aaa");
+
+console.log(mateus);
