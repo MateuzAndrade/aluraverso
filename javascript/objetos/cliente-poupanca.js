@@ -19,3 +19,11 @@ function ClientePoupanca (nome,idade,cpf,email,saldo,saldoPoup){
 const mateus = new ClientePoupanca("Mateus","26","0000000000","contato@email.com",100,200);
 
 console.log(mateus);
+
+ClientePoupanca.prototype.depositarPoup = function(valor) {
+    this.saldoPoup += valor;
+}
+
+mateus.depositarPoup(90)
+
+console.log(mateus.saldoPoup);
