@@ -18,17 +18,3 @@ class Cliente {
         console.log(this.saldo);
     }
 }
-
-const mateus = new Cliente("Mateus","contato@email.com","0000001",100);
-
-console.log(mateus);
-
-mateus.exibirSaldo();
-
-mateus.depositar(50);
-
-console.log(mateus);
-
-mateus.saque(150);
-
-mateus.exibirSaldo();

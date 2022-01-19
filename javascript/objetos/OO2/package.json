@@ -1,0 +1,20 @@
+{
+  "name": "cliente",
+  "version": "1.0.0",
+  "description": "Aula de como importar modulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MateuzAndrade/aluraverso.git"
+  },
+  "author": "Mateus",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/MateuzAndrade/aluraverso/issues"
+  },
+  "homepage": "https://github.com/MateuzAndrade/aluraverso#readme"
+}

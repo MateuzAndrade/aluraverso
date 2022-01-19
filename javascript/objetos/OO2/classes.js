@@ -1,4 +1,4 @@
-class ClienteCC {
+export class ClienteCC {
     constructor (nome, cpf, agencia, conta,_saldo, enderenco){
         this.Nome = nome,
         this.Cpf = cpf,
@@ -30,10 +30,3 @@ class ClienteCC {
         console.log(this._Saldo);
     }
 }
-
-const Mateus = new ClienteCC ("Mateus","00001","0000001","10101001",100,"Rua Digital");
-
-console.log(Mateus);
-
-Mateus.saque(30);
-Mateus.deposito(5689);
