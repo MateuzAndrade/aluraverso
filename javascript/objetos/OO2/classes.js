@@ -1,7 +1,12 @@
 export class Cliente {
+
+    get cpf (){
+        this._cpf;
+    }
+
     constructor (nome, cpf, agencia, endereco){
         this.Nome = nome,
-        this.Cpf = cpf,
+        this._cpf = cpf,
         this.Agencia = agencia,
         this.Endereco = endereco
     }
