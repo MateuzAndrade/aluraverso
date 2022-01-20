@@ -1,32 +1,37 @@
-export class ClienteCC {
-    constructor (nome, cpf, agencia, conta,_saldo, enderenco){
+export class Cliente {
+    constructor (nome, cpf, agencia, endereco){
         this.Nome = nome,
         this.Cpf = cpf,
         this.Agencia = agencia,
+        this.Endereco = endereco
+    }
+
+
+}
+
+export class ContaCorrente extends Cliente {
+    constructor (nome, cpf, agencia,conta,_SaldoCC, endereco){
+        super (nome, cpf, agencia,endereco)
         this.Conta = conta,
-        this._Saldo = _saldo,
-        this.Enderenco = enderenco
+        this._SaldoCC = _SaldoCC;
     }
 
     deposito (valor) {
-        if ( valor > 0) {
-            this._Saldo += valor;
-            return console.log(`Olá ${this.Nome} você realizou um deposito de R$${valor} seu saldo atual é de R$${this._Saldo}`);
-        } else {
-            console.error("ERRO NÃO SE DEPOSITA NÚMERO NEGATIVO");
-        }
+        if ( valor <= 0 ) {
+            return;
+    }
+        this._SaldoCC += valor;
     }
 
     saque (valor) {
-        if (valor <= this._Saldo) {
-            this._Saldo -= valor;
-            return console.log(`Olá ${this.Nome} você realizou um saque de R$${valor} seu saldo atual é de R$${this._Saldo}`);
-        } else {
-            console.error("Saldo Insuficiente");
-        }
+        if (this._SaldoCC >= valor) {
+            this._SaldoCC -= valor;
+            return valor;
+    }}
+
+    transferencia (valor, conta){
+        const valorSacado = this.saque(valor);
+        conta.deposito(valorSacado)
     }
 
-    exibirSaldo (){
-        console.log(this._Saldo);
-    }
 }
