@@ -1,4 +1,12 @@
+/* *seletor de marcador */
+* body {
+    text-align: center;
+    background-color: #CCCCCC;
+}
 
-p {
-    font-size: 25px;
+/* #seletor de id */
+#missao {
+    font-size: 20px;
+    color: red;
+    font-family: 'Caveat', cursive;
 }
