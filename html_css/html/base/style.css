@@ -1,12 +1,42 @@
 /* *seletor de marcador */
+* {
+    margin: 0;
+    padding: 0;
+}
+
 * body {
     text-align: center;
     background-color: #CCCCCC;
 }
 
+* h1, #barbearia, #missao {
+    font-family: 'Mea Culpa', cursive;
+}
+
+* h1 {
+    font-size: 55px;
+    font-style: italic;
+    margin: 0;
+    bot
+}
+
+
 /* #seletor de id */
 #missao {
-    font-size: 20px;
-    color: red;
-    font-family: 'Caveat', cursive;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
+#banner {
+    /*width: 200px;*/
+    background-position: top;
+    width: 100% ;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+    margin-bottom: 0px;
+}
+
+#barbearia {
+    font-size: 35px;
 }
