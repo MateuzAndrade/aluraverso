@@ -5,19 +5,21 @@
 }
 
 * body {
-    text-align: center;
     background-color: #CCCCCC;
 }
 
-* h1, #barbearia, #missao {
+* h1,
+h2,
+#barbearia,
+#missao {
     font-family: 'Mea Culpa', cursive;
 }
 
-* h1 {
+* h1,
+h2 {
     font-size: 55px;
     font-style: italic;
     margin: 0;
-    bot
 }
 
 
@@ -28,15 +30,25 @@
 }
 
 #banner {
-    /*width: 200px;*/
     background-position: top;
-    width: 100% ;
-    margin-top: 3px;
-    margin-left: 3px;
-    margin-right: 3px;
-    margin-bottom: 0px;
+    width: 100%;
+
 }
 
 #barbearia {
     font-size: 35px;
+}
+
+/* Identificador de classe é o .*/
+.main-content {
+    text-align: center;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    text-align: center;
+    background-color: #FFFFFF;
 }
