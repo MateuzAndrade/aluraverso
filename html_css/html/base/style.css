@@ -8,20 +8,25 @@
     background-color: #CCCCCC;
 }
 
-* h1,
-h2,
+.title,.title-menu,
 #barbearia,
 #missao {
     font-family: 'Mea Culpa', cursive;
 }
 
-* h1,
-h2 {
-    font-size: 55px;
-    font-style: italic;
-    margin: 0;
+
+ul {
+    margin-left: 50px;
+    display: inline-block;
+    vertical-align: top;
+    width: 30%;
+    margin-right: 15%;
+    margin-top: 130px;
 }
 
+li {
+    margin-top: 1em;
+}
 
 /* #seletor de id */
 #missao {
@@ -39,9 +44,27 @@ h2 {
     font-size: 35px;
 }
 
+#img-beneficios {
+    width: 50%;
+}
+
 /* Identificador de classe é o .*/
+
+.title-menu {
+    padding-left: 20px;
+    background-color: white;
+}
+
+.title {
+    font-size: 55px;
+    font-style: italic;
+    margin: 0;
+    text-align: center;
+}
+
 .main-content {
     text-align: center;
+    padding: 30px;
 }
 
 .itens {
@@ -49,6 +72,5 @@ h2 {
 }
 
 .beneficios {
-    text-align: center;
     background-color: #FFFFFF;
 }
