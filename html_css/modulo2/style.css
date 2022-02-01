@@ -31,13 +31,13 @@ form {
     margin: 40px 0 40px;
 }
 
-form label {
+form label, form p {
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
 }
 
-form input {
+form input, form textarea{
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
