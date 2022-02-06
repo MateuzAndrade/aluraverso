@@ -221,6 +221,6 @@ th {
 
 }
 
-.itens:last-child{
+.itens:nth-child(2){
     font-weight: bold;
 }
