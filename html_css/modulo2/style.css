@@ -27,8 +27,6 @@ nav a {
 }
 
 main {
-    width: 940px;
-    margin: 0 auto;
 }
 
 form {
@@ -165,6 +163,13 @@ th {
     clear: left;
 }
 
+.main-content {
+    padding: 3em 0;
+    background: #FEFEFE;
+    width: 940px;
+    margin: 0 auto;
+}
+
 .main-content p {
     margin: 0 0 1em;
 }
@@ -175,6 +180,10 @@ th {
 
 .main-content em {
     font-style: italic;
+}
+.beneficios{
+    padding: 3em 0;
+    background:linear-gradient(#FEFEFE, #888888);
 }
 
 .content-beneficios {
@@ -199,6 +208,12 @@ th {
 
 .mapa {
     padding: 3em 0;
+    background: #888888;
+}
+
+.mapa-content{
+    width: 940px;
+    margin: 0 auto;
 }
 
 .mapa p {
@@ -216,11 +231,11 @@ th {
     height: 500px;
 }
 
+.itens::before {
+    content: "💈";
+}
+
 .itens {
     line-height: 1.5em;
 
-}
-
-.itens:nth-child(2){
-    font-weight: bold;
 }
