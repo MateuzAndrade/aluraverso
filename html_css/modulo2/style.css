@@ -26,8 +26,7 @@ nav a {
     text-decoration: none;
 }
 
-main {
-}
+main {}
 
 form {
     margin: 40px 0 40px;
@@ -181,9 +180,10 @@ th {
 .main-content em {
     font-style: italic;
 }
-.beneficios{
+
+.beneficios {
     padding: 3em 0;
-    background:linear-gradient(#FEFEFE, #888888);
+    background: linear-gradient(#FEFEFE, #888888);
 }
 
 .content-beneficios {
@@ -211,7 +211,7 @@ th {
     background: #888888;
 }
 
-.mapa-content{
+.mapa-content {
     width: 940px;
     margin: 0 auto;
 }
@@ -238,4 +238,32 @@ th {
 .itens {
     line-height: 1.5em;
 
+}
+
+@media screen and (max-width: 480px) {
+
+    .box-header,
+    .main-content,
+    .content-beneficios,
+    .mapa-content,
+    .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    .img-beneficios,
+    .lista-beneficios {
+        width: 80%;
+    }
+
+    .img-beneficios {
+        width: 100%;
+    }
 }
