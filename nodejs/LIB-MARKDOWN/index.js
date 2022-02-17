@@ -5,10 +5,23 @@ function trataErro(erro) {
     throw new Error(chalk.red(erro.code, 'Não existe arquivo neste caminho'));
 }
 
-function pegaArquivo(caminhoDoArquivo) {
-    const encoding = 'utf8';
-    fs.promises.readFile()
+async function pegaArquivo(caminhoDoArquivo){
+    const encoding ='utf8'
+    try{
+    const texto = await fs.promises.readFile(caminhoDoArquivo, encoding)
+    console.log(chalk.green(texto));}
+    catch(erro){
+        trataErro(erro)
+    }
 }
+
+// function pegaArquivo(caminhoDoArquivo) {
+//     const encoding = 'utf8';
+//     fs.promises
+//     .readFile(caminhoDoArquivo, encoding)
+//     .then((texto) => chalk.green(console.log(texto)))
+//     .catch((erro)=> trataErro(erro))
+// }
 
 // function pegaArquivo(caminhoDoArquivo) {
 //     const encoding = "utf8";
@@ -20,4 +33,4 @@ function pegaArquivo(caminhoDoArquivo) {
 //     })
 // }
 
-pegaArquivo("./arquivos/texto1.md");
+pegaArquivo("./arquivos/");
