@@ -17,10 +17,9 @@ function ordenar(parte1, parte2) {
             posicaoAtualParte2++;
 
         }
-
-return resultado.concat(posicaoAtualParte1 < parte1.length ? parte1.slice(posicaoAtualParte1) : parte2.slice(posicaoAtualParte2));
-
     }
+    return resultado.concat(posicaoAtualParte1 < parte1.length ? parte1.slice(posicaoAtualParte1) : parte2.slice(posicaoAtualParte2));
+
 }
 
 function mergeSorte(array) {
