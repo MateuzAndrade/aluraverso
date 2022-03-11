@@ -1,0 +1,15 @@
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.exe
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.deps.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.runtimeconfig.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\bin\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.csproj.AssemblyReference.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfoInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.AssemblyInfo.cs
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\refint\3-CriandoVariaveisPontoFlutuante.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\3-CriandoVariaveisPontoFlutuante.genruntimeconfig.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\3-CriandoVariaveisPontoFlutuante\3-CriandoVariaveisPontoFlutuante\obj\Debug\net6.0\ref\3-CriandoVariaveisPontoFlutuante.dll
