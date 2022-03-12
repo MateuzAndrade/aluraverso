@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{C851B570-FABB-49A5-ADB1-1CB2AD45F3BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{B5FC9E20-8C60-4C14-A939-63E1285BC3E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{B5FC9E20-8C60-4C14-A939-63E1285BC3E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6 -AtribuiçõesDeVariaveis", "6 -AtribuiçõesDeVariaveis\6 -AtribuiçõesDeVariaveis.csproj", "{214BFE19-DE6F-44D9-A265-F421E7E009B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 -AtribuiçõesDeVariaveis", "6 -AtribuiçõesDeVariaveis\6 -AtribuiçõesDeVariaveis.csproj", "{214BFE19-DE6F-44D9-A265-F421E7E009B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{54EE45F2-59FF-400B-9C72-7688FBF07B3C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{214BFE19-DE6F-44D9-A265-F421E7E009B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{214BFE19-DE6F-44D9-A265-F421E7E009B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{214BFE19-DE6F-44D9-A265-F421E7E009B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54EE45F2-59FF-400B-9C72-7688FBF07B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54EE45F2-59FF-400B-9C72-7688FBF07B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54EE45F2-59FF-400B-9C72-7688FBF07B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54EE45F2-59FF-400B-9C72-7688FBF07B3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
