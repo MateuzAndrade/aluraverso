@@ -1,0 +1,15 @@
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\bin\Debug\net6.0\6 -AtribuiçõesDeVariaveis.exe
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\bin\Debug\net6.0\6 -AtribuiçõesDeVariaveis.deps.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\bin\Debug\net6.0\6 -AtribuiçõesDeVariaveis.runtimeconfig.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\bin\Debug\net6.0\6 -AtribuiçõesDeVariaveis.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\bin\Debug\net6.0\6 -AtribuiçõesDeVariaveis.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.csproj.AssemblyReference.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.AssemblyInfoInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.AssemblyInfo.cs
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\refint\6 -AtribuiçõesDeVariaveis.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\6 -AtribuiçõesDeVariaveis.genruntimeconfig.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\6 -AtribuiçõesDeVariaveis\obj\Debug\net6.0\ref\6 -AtribuiçõesDeVariaveis.dll
