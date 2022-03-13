@@ -1,16 +1,14 @@
-﻿Console.WriteLine("Executando projeto 6");
+﻿Console.WriteLine("Executando projeto 7");
 
 int notaDoAluno = 5;
 
-if (notaDoAluno >= 7)
+if(notaDoAluno> 7)
 {
-    Console.WriteLine("Aluno Aprovado");
-}
-else 
+    Console.WriteLine("Aprovado");
+}else
 {
-    Console.WriteLine("Aluno Reprovado");
+    Console.WriteLine("Reprovado");
 }
-
 
 Console.WriteLine("A execuçaõ terminou");
 Console.ReadLine();
