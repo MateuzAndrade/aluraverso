@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6 -AtribuiçõesDeVariaveis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{54EE45F2-59FF-400B-9C72-7688FBF07B3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{24AAFFE3-DFB2-465A-9105-81693BBB3662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{24AAFFE3-DFB2-465A-9105-81693BBB3662}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{4DCEC87C-ACB9-4809-AF41-8F085010E64E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P10-CalculaPoupanca", "P10-CalculaPoupanca\P10-CalculaPoupanca.csproj", "{DCC44B26-991A-482B-B4BB-A1A0AB0C6AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P11-LacoForCalculaPoupanca", "P11-LacoForCalculaPoupanca\P11-LacoForCalculaPoupanca.csproj", "{0F4C3221-12DF-46C0-A5C7-F1ED23293019}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{24AAFFE3-DFB2-465A-9105-81693BBB3662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24AAFFE3-DFB2-465A-9105-81693BBB3662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24AAFFE3-DFB2-465A-9105-81693BBB3662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DCEC87C-ACB9-4809-AF41-8F085010E64E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DCEC87C-ACB9-4809-AF41-8F085010E64E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DCEC87C-ACB9-4809-AF41-8F085010E64E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DCEC87C-ACB9-4809-AF41-8F085010E64E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCC44B26-991A-482B-B4BB-A1A0AB0C6AFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCC44B26-991A-482B-B4BB-A1A0AB0C6AFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCC44B26-991A-482B-B4BB-A1A0AB0C6AFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCC44B26-991A-482B-B4BB-A1A0AB0C6AFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4C3221-12DF-46C0-A5C7-F1ED23293019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4C3221-12DF-46C0-A5C7-F1ED23293019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4C3221-12DF-46C0-A5C7-F1ED23293019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4C3221-12DF-46C0-A5C7-F1ED23293019}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

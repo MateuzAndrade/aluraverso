@@ -1,0 +1,15 @@
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.csproj.AssemblyReference.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.AssemblyInfo.cs
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\bin\Debug\net6.0\P11-LacoForCalculaPoupanca.exe
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\bin\Debug\net6.0\P11-LacoForCalculaPoupanca.deps.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\bin\Debug\net6.0\P11-LacoForCalculaPoupanca.runtimeconfig.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\bin\Debug\net6.0\P11-LacoForCalculaPoupanca.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\bin\Debug\net6.0\P11-LacoForCalculaPoupanca.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\refint\P11-LacoForCalculaPoupanca.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\P11-LacoForCalculaPoupanca.genruntimeconfig.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P11-LacoForCalculaPoupanca\obj\Debug\net6.0\ref\P11-LacoForCalculaPoupanca.dll
