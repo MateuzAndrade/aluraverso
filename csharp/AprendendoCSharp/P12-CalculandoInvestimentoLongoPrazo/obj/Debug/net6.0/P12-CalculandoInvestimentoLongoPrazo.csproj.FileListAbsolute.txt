@@ -1,0 +1,15 @@
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.exe
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.deps.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.runtimeconfig.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\bin\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.csproj.AssemblyReference.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.AssemblyInfoInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.AssemblyInfo.cs
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\refint\P12-CalculandoInvestimentoLongoPrazo.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\P12-CalculandoInvestimentoLongoPrazo.genruntimeconfig.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\AprendendoCSharp\P12-CalculandoInvestimentoLongoPrazo\obj\Debug\net6.0\ref\P12-CalculandoInvestimentoLongoPrazo.dll
