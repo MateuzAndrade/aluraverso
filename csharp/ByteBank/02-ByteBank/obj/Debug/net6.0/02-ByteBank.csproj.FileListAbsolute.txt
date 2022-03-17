@@ -1,0 +1,15 @@
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.csproj.AssemblyReference.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.AssemblyInfoInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.AssemblyInfo.cs
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.exe
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.deps.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.runtimeconfig.json
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\bin\Debug\net6.0\02-ByteBank.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\refint\02-ByteBank.dll
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.pdb
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\02-ByteBank.genruntimeconfig.cache
+C:\Users\Mateu\Documents\GitHub\aluraverso\csharp\ByteBank\02-ByteBank\obj\Debug\net6.0\ref\02-ByteBank.dll

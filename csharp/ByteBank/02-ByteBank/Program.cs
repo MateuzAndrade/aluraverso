@@ -1,2 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+ContaCorrente contaDoLucas = new ContaCorrente();
+
+contaDoLucas.saldo += 100;
+
+Console.WriteLine(contaDoLucas.saldo);
