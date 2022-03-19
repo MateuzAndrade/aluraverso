@@ -5,6 +5,5 @@
     public int numeroConta;
     public double saldo;
 
-    Func int Sacar(Double valor)
 }
 
