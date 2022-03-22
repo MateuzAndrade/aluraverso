@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {}
+    "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\ByteBankPOO2\\ByteBankPOO2\\ByteBankPOO2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj": {
+    "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\ByteBankPOO2\\ByteBankPOO2\\ByteBankPOO2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
-        "projectName": "3-CriandoVariaveisPontoFlutuante",
-        "projectPath": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante.csproj",
+        "projectUniqueName": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\ByteBankPOO2\\ByteBankPOO2\\ByteBankPOO2.csproj",
+        "projectName": "ByteBankPOO2",
+        "projectPath": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\ByteBankPOO2\\ByteBankPOO2\\ByteBankPOO2.csproj",
         "packagesPath": "C:\\Users\\Mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\3-CriandoVariaveisPontoFlutuante\\3-CriandoVariaveisPontoFlutuante\\obj\\",
+        "outputPath": "C:\\Users\\Mateu\\Documents\\GitHub\\aluraverso\\csharp\\ByteBankPOO2\\ByteBankPOO2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
