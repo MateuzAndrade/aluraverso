@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ByteBankPOO2.Funcionarios
 {
-    public class Funcionario
+    public class Funcionarios
     {
         public string? Nome { get; set; }
         public string? CPF { get; set; }

@@ -7,11 +7,16 @@ namespace ByteBankPOO2
     {
         static void Main (string[] args)
         {
-            Funcionario carlos = new Funcionario();
+            Funcionarios.Funcionarios carlos = new Funcionarios.Funcionarios();
 
             carlos.Nome = "Carlos";
             carlos.CPF = "123.456.789-00";
             carlos.Salario = 3000;
+
+            Diretor jose = new Diretor();
+
+            jose.Nome = "Jose";
+            Console.WriteLine(jose.Nome);
 
             
 
