@@ -7,3 +7,4 @@ const cliente = {
 
 const chaves = ["nome", "idade", "CPF", "email"];
 
+c
