@@ -1,5 +1,5 @@
 ﻿
-using ByteBankPOO2.Funcionarios;
+using ByteBankPOO2.Colaboradores;
 
 namespace ByteBankPOO2
 {
@@ -7,7 +7,7 @@ namespace ByteBankPOO2
     {
         static void Main (string[] args)
         {
-            Funcionarios.Funcionarios carlos = new Funcionarios.Funcionarios();
+            Funcionario.Funcionario carlos = new Funcionario.Funcionario();
 
             carlos.Nome = "Carlos";
             carlos.CPF = "123.456.789-00";
@@ -18,7 +18,7 @@ namespace ByteBankPOO2
             jose.Nome = "Jose";
             Console.WriteLine(jose.Nome);
 
-            
+
 
         }
     }
